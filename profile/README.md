@@ -11,11 +11,12 @@ Use a size like 1280x400px.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[YOUR_DARK_BANNER_URL_HERE]">
-    <source media="(prefers-color-scheme: light)" srcset="[YOUR_LIGHT_BANNER_URL_HERE]">
-    <img alt="A banner image showcasing the Lokus brand and concept." src="[YOUR_DARK_BANNER_URL_HERE]">
+    <source media="(prefers-color-scheme: dark)" srcset="./20250914_0112_Elegant%20Software%20Launch%20Banner_simple_compose_01k53a5bn8fsbrtrdge3vn7qgd.png">
+    <source media="(prefers-color-scheme: light)" srcset="./20250914_0112_Elegant%20Software%20Launch%20Banner_simple_compose_01k53a5bn8fsbrtrdge3vn7qgd.png">
+    <img alt="A banner image showcasing the Lokus brand and concept." src="./20250914_0112_Elegant%20Software%20Launch%20Banner_simple_compose_01k53a5bn8fsbrtrdge3vn7qgd.png">
   </picture>
 </p>
+
 
 <div align="center">
   <h1>Lokus</h1>
